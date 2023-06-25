@@ -13,4 +13,4 @@ I'm the technical administrator of the Discord ERP server. This is my profile wh
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArtoriaDiscord&theme=great_gatsby)-
 
 ## Links
-📫 [Discord Server](mailto:your-email@example.com) | 🌐 [KinkList](https://your-website.com)
+📫 [Discord Server](https://discord.gg/VJ7F4AHZDH) | 🌐 [KinkList](https://artoriadiscord.github.io/ERPFinderKinkList/main.html)
