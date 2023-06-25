@@ -10,7 +10,7 @@ I'm the technical administrator of the Discord ERP server. This is my profile wh
 - [KinkList](https://github.com/ArtoriaDiscord/ERPFinderKinkList): KinkList for a specific user preference of my discord server
 
 ## GitHub Stats
-![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArtoriaDiscord&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArtoriaDiscord&theme=great_gatsby)-
 
 ## Links
 📫 [Discord Server](mailto:your-email@example.com) | 🌐 [KinkList](https://your-website.com)
